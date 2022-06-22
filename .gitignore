@@ -1,2 +1,5 @@
 .idea
 node_modules
+.angular
+dist
+yarn-error.log
